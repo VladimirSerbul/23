@@ -1,0 +1,14 @@
+C:\Users\serbu\source\repos\23\23\bin\Debug\23.exe.config
+C:\Users\serbu\source\repos\23\23\bin\Debug\23.exe
+C:\Users\serbu\source\repos\23\23\bin\Debug\23.pdb
+C:\Users\serbu\source\repos\23\23\obj\Debug\23.csprojAssemblyReference.cache
+C:\Users\serbu\source\repos\23\23\obj\Debug\23.csproj.CoreCompileInputs.cache
+C:\Users\serbu\source\repos\23\23\obj\Debug\23.exe
+C:\Users\serbu\source\repos\23\23\obj\Debug\23.pdb
+C:\Users\serbu\Documents\Git Hub\23\23\bin\Debug\23.exe.config
+C:\Users\serbu\Documents\Git Hub\23\23\bin\Debug\23.exe
+C:\Users\serbu\Documents\Git Hub\23\23\bin\Debug\23.pdb
+C:\Users\serbu\Documents\Git Hub\23\23\obj\Debug\23.csprojAssemblyReference.cache
+C:\Users\serbu\Documents\Git Hub\23\23\obj\Debug\23.csproj.CoreCompileInputs.cache
+C:\Users\serbu\Documents\Git Hub\23\23\obj\Debug\23.exe
+C:\Users\serbu\Documents\Git Hub\23\23\obj\Debug\23.pdb
